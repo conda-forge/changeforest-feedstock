@@ -1,5 +1,5 @@
 {% set name = "changeforest" %}
-{% set version = "0.5.0" %}
+{% set version = "0.5.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: f0d2bda994f3e5c870f6539353ad3f2fce23364fd7eb503048780124871e9871
+  sha256: 031e45d12da8089618162971cf80a002bf2b6917cc23f456be92b19d813ca15f
 
 build:
   number: 0
