@@ -1,11 +1,11 @@
-About changeforest
-==================
+About changeforest-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/changeforest-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mlondschien/changeforest
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/changeforest-feedstock/blob/main/LICENSE.txt)
 
 Summary: Classifier based non-parametric change point detection
 
